@@ -44,10 +44,10 @@ to-purple-500 bg-clip-text lg:text-4xl text-2xl tracking-tight text-transparent"
                 📊 I’ve built 1M+ users web app
               </p>
               <p className="my-1  max-w-xl  font-light tracking-tighter">
-                ⭐️ 6+ years in development
+                ⭐️ 3+ years in development
               </p>
               <p className="my-1  max-w-xl  font-light tracking-tighter">
-                ⭐️ 40+ successfully completed projects.
+                ⭐️ 20+ successfully completed projects.
               </p>
             </motion.div>
           </div>
@@ -56,9 +56,9 @@ to-purple-500 bg-clip-text lg:text-4xl text-2xl tracking-tight text-transparent"
         <div className="w-full lg:w-1/2 lg:p-8">
           <div className="flex justify-center">
             <motion.img
-              transition={{duration:1 , delay: 1.2}}
-              initial={{x: 100 , opacity: 0}}
-              animate={{x: 0 , opacity: 1}}
+              transition={{ duration: 1, delay: 1.2 }}
+              initial={{ x: 100, opacity: 0 }}
+              animate={{ x: 0, opacity: 1 }}
               src={profilePic}
               alt="Sadaif"
               className="rounded-xl"

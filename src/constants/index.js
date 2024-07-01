@@ -6,49 +6,14 @@ import project5 from "../assets/projects/cjordana.png";
 import project6 from "../assets/projects/ctracker.png";
 
  
-export const ABOUT_TEXT = `I'm top-notch MERN Stack Developer with over 6+ years of experience crafting dynamic and scalable web
-applications. I leverage my expertise in JavaScript, React, Node.js, and MongoDB to build user-centric
-interfaces and efficient backend functionalities. I thrive on building clean, well-architected code and
-collaborating effectively with clients to ensure project success. Whether you need a single-page application,
-an e-commerce platform, or a custom web solution, I'm here to help bring your vision to life.`;
+export const ABOUT_TEXT = `Accomplished React and React Native Developer with a solid track record in delivering impactful web and
+mobile applications. Proficient in creating seamless user experiences across platforms. Successfully led and
+contributed to various projects, optimizing functionality and user interfaces.`;
 
 export const EXPERIENCES = [
   {
-    year: "Dec 2023 - April 2024",
-    role: "Senior Software Engineer",
-    company: "Raphay Resource",
-    description: `Led the development of WorkNab, a product streamlining workflows in the glass industry.
-Utilized project management skills to ensure the successful delivery of WorkNab.
-Built WorkNab using the MERN stack (MongoDB, Express.js, React.js, Node.js) for a robust and
-efficient application.
-Automated WorkNab's deployment process by setting up a CI/CD pipeline with AWS, maximizing
-efficiency and reducing manual work.`,
-    technologies: [
-      "Javascript",
-      "Tailwind CSS",
-      "React.js",
-      "Node Js",
-      "Express Js",
-      "mongoDB",
-    ],
-  },
-  {
-    year: "May 2022 - Apr 2023",
-    role: "React Native Developer",
-    company: "Socialverse",
-    description: `Collaborated with project managers to select ambitious, but realistic coding milestones on pre-release software project development.
-Revised, modularized and updated old code bases to modern development standards, reducing
-operating costs, and improving functionality.
-Collaborated on stages of systems development lifecycle from requirement gathering to
-production releases.
-Discussed issues with team members to provide resolution and apply best practices.
-Updated old code bases to modern development standards, improving functionality.
-`,
-    technologies: ["HTML", "CSS", "Vue.js", "mySQL"],
-  },
-  {
-    year: "Oct 2021 - Feb 2022 ",
-    role: "React.Js Developer",
+    year: "Jan 2022 - Present",
+    role: "React Js Developer",
     company: "Persist Ventures",
     description: `Designed REST calls using React to streamline user interface performance.
 Created mobile applications based on React, integrating Facebook's best practices for interface
@@ -59,22 +24,10 @@ Translated customer requirements into written use cases.
 `,
     technologies: ["Python", "Svelte", "Three.js", "Postgres"],
   },
+
   {
-    year: "Mar 2020 - Jan 2021",
-    role: "React.Js Developer",
-    company: "OSD",
-    description: `Revised, modularized and updated old code bases to modern development standards, reducing
-operating costs, and improving functionality.
-Designed customized solutions for proposals to potential customers.
-Translated customer requirements into written use cases.
-Led version control efforts for organization, employing public and open source repositories.
-Discussed issues with team members to provide resolution and apply best practices.
-`,
-    technologies: ["Ruby", "Rails", "PHP", "Sqlite"],
-  },
-  {
-    year: "Mar 2018 - Jan 2020",
-    role: "Front-End Developer",
+    year: "Jan 2020 - Dec 2021",
+    role: "Associate Software Engineer",
     company: "DigitalCru",
     description: `Collaborated with stakeholders during development processes to confirm creative proposals and
 design best practices.
