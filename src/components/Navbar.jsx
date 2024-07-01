@@ -21,12 +21,12 @@ const Navbar = () => {
           className="text-white"
           onClick={() => window.open("https://github.com/sadaif")}
         />
-        <BiLogoUpwork
+        {/* <BiLogoUpwork
           className="text-white"
           onClick={() =>
             window.open("https://www.upwork.com/freelancers/sadaif")
           }
-        />
+        /> */}
         <FaSquareXTwitter
           className="text-white"
           onClick={() => window.open("https://twitter.com/sadaifrizvi")}
